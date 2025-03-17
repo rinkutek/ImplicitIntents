@@ -8,6 +8,11 @@
     android:background="#1F4E79"
     tools:context=".MainActivity">
 
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
+
     <!-- App Title -->
     <TextView
         android:layout_width="match_parent"
@@ -49,6 +54,11 @@
         android:backgroundTint="#FFFF00"
         android:textColor="#000000"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
+
+
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
@@ -85,6 +95,11 @@
         android:background="@drawable/custom_button"
         android:backgroundTint="#DD4444"
         android:textColor="#000000"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
 
     <View
         android:layout_width="match_parent"
